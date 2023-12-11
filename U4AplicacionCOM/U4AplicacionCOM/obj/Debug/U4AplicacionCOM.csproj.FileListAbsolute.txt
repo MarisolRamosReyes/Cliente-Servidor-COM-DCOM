@@ -1,0 +1,7 @@
+C:\DCOMDemo\Server\U4AplicacionCOM\ProyectoDCOM\bin\Debug\ProyectoDCOM.dll.config
+C:\DCOMDemo\Server\U4AplicacionCOM\ProyectoDCOM\bin\Debug\ProyectoDCOM.dll
+C:\DCOMDemo\Server\U4AplicacionCOM\ProyectoDCOM\bin\Debug\ProyectoDCOM.pdb
+C:\DCOMDemo\Server\U4AplicacionCOM\ProyectoDCOM\obj\Debug\U4AplicacionCOM.csproj.AssemblyReference.cache
+C:\DCOMDemo\Server\U4AplicacionCOM\ProyectoDCOM\obj\Debug\U4AplicacionCOM.csproj.CoreCompileInputs.cache
+C:\DCOMDemo\Server\U4AplicacionCOM\ProyectoDCOM\obj\Debug\ProyectoDCOM.dll
+C:\DCOMDemo\Server\U4AplicacionCOM\ProyectoDCOM\obj\Debug\ProyectoDCOM.pdb
